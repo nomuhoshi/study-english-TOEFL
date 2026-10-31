@@ -2816,6 +2816,165 @@
   "pending_compute": true
  },
  {
+  "date": "2026-10-31",
+  "date_estimated": false,
+  "passage": "25-2",
+  "kind": "日常",
+  "tokens": 72,
+  "unknown": 11,
+  "polysemy": 3,
+  "rate": 15.3,
+  "unclear_rate": 19.4,
+  "content_types": 59,
+  "unknown_types": 9,
+  "polysemy_types": 3,
+  "high": 89.2,
+  "mid": 71.4,
+  "low": 50.0,
+  "band_types": {
+   "high": 37,
+   "mid": 14,
+   "low": 8
+  },
+  "words": "celestial, diogenite, eucrite, fragment, howardite, identical, nearby, spectra, unstable",
+  "poly_words": "close, lie, work",
+  "unknown_lemmas": [
+   "celestial",
+   "diogenite",
+   "eucrite",
+   "fragment",
+   "howardite",
+   "identical",
+   "nearby",
+   "spectra",
+   "unstable"
+  ],
+  "poly_lemmas": [
+   "close",
+   "lie",
+   "work"
+  ],
+  "note": "高亮：work out, short for howardite/eucrite/diogenite, identical, nearby, spectra, fragments, lie close, celestial, unstable。work out、lie close 记为熟词僻义，三个岩石名记为生词（我的判断）。 spectrum 她没高亮（只高亮 spectra），按已认识处理，已从统计里扣掉。",
+  "method_version": 1,
+  "source": "截图 2026-11-01 01:27（凌晨6点前记前一天）"
+ },
+ {
+  "date": "2026-10-31",
+  "date_estimated": false,
+  "passage": "25-3",
+  "kind": "日常",
+  "tokens": 86,
+  "unknown": 12,
+  "polysemy": 2,
+  "rate": 14.0,
+  "unclear_rate": 16.3,
+  "content_types": 72,
+  "unknown_types": 11,
+  "polysemy_types": 2,
+  "high": 100.0,
+  "mid": 66.7,
+  "low": 44.4,
+  "band_types": {
+   "high": 39,
+   "mid": 24,
+   "low": 9
+  },
+  "words": "assault, bombard, debris, grain, harsh, metallic, originate, outermost, outward, sulfide, transform",
+  "poly_words": "coat, weathering",
+  "unknown_lemmas": [
+   "assault",
+   "bombard",
+   "debris",
+   "grain",
+   "harsh",
+   "metallic",
+   "originate",
+   "outermost",
+   "outward",
+   "sulfide",
+   "transform"
+  ],
+  "poly_lemmas": [
+   "coat",
+   "weathering"
+  ],
+  "note": "高亮：harsh, bombarded, originates, debris, assault, transforms, outermost, coat, dust grains, metallic iron, iron sulfide, outward, weathering。coat、weathering 记为熟词僻义（我的判断）。",
+  "method_version": 1,
+  "source": "截图 2026-11-01 01:27（凌晨6点前记前一天）"
+ },
+ {
+  "date": "2026-10-31",
+  "date_estimated": false,
+  "passage": "25-4",
+  "kind": "日常",
+  "tokens": 93,
+  "unknown": 3,
+  "polysemy": 7,
+  "rate": 3.2,
+  "unclear_rate": 10.8,
+  "content_types": 63,
+  "unknown_types": 3,
+  "polysemy_types": 4,
+  "high": 93.6,
+  "mid": 81.8,
+  "low": 60.0,
+  "band_types": {
+   "high": 47,
+   "mid": 11,
+   "low": 5
+  },
+  "words": "artificially, chunk, pristine",
+  "poly_words": "break, red, wash, weather",
+  "unknown_lemmas": [
+   "artificially",
+   "chunk",
+   "pristine"
+  ],
+  "poly_lemmas": [
+   "break",
+   "red",
+   "wash",
+   "weather"
+  ],
+  "note": "高亮：redder, washes out, chunks, broken off, weathered, pristine, Breaking open, artificially weather。redder、washes out、broken off、weathered、Breaking open、weather 记为熟词僻义（我的判断）。chunk 在 25-1 她已写过意思（大块）。",
+  "method_version": 1,
+  "source": "截图 2026-11-01 01:27（凌晨6点前记前一天）"
+ },
+ {
+  "date": "2026-10-31",
+  "date_estimated": false,
+  "passage": "25-5",
+  "kind": "日常",
+  "tokens": 37,
+  "unknown": 3,
+  "polysemy": 1,
+  "rate": 8.1,
+  "unclear_rate": 10.8,
+  "content_types": 27,
+  "unknown_types": 2,
+  "polysemy_types": 1,
+  "high": 94.7,
+  "mid": 83.3,
+  "low": 50.0,
+  "band_types": {
+   "high": 19,
+   "mid": 6,
+   "low": 2
+  },
+  "words": "chondrite, prevalence",
+  "poly_words": "make",
+  "unknown_lemmas": [
+   "chondrite",
+   "prevalence"
+  ],
+  "poly_lemmas": [
+   "make"
+  ],
+  "note": "高亮：Ordinary chondrites, make up, prevalence。prevalence 与复习词 prevalent 同词根，复习时没记住。make up 记为熟词僻义（我的判断）。",
+  "method_version": 1,
+  "source": "截图 2026-11-01 01:27（凌晨6点前记前一天）"
+ },
+ {
   "band_types": {
    "high": 48,
    "low": 3,

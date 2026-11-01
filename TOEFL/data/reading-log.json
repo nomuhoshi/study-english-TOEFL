@@ -3115,6 +3115,49 @@
   "source": "截图 2026-11-01 15:00"
  },
  {
+  "date": "2026-11-01",
+  "date_estimated": false,
+  "passage": "26-4",
+  "kind": "日常",
+  "topic": "天文/生物",
+  "tokens": 83,
+  "unknown": 8,
+  "polysemy": 4,
+  "rate": 9.6,
+  "unclear_rate": 14.5,
+  "content_types": 66,
+  "unknown_types": 7,
+  "polysemy_types": 4,
+  "high": 96.1,
+  "mid": 36.4,
+  "low": 50.0,
+  "band_types": {
+   "high": 51,
+   "mid": 11,
+   "low": 4
+  },
+  "words": "blast, indigenous, intriguing, microbe, originate, plausible, scenario",
+  "poly_words": "avoid, indeed, pressed, seed",
+  "unknown_lemmas": [
+   "blast",
+   "indigenous",
+   "intriguing",
+   "microbe",
+   "originate",
+   "plausible",
+   "scenario"
+  ],
+  "poly_lemmas": [
+   "avoid",
+   "indeed",
+   "pressed",
+   "seed"
+  ],
+  "note": "26-4。高亮：intriguing, seeded, avoiding the need for, indigenous, indeed, have had, scenario, plausible, as it, microbes, blasted off, hard-pressed, originated。她没写意思，生词/熟词僻义是我按词义判断的（seeded、avoiding the need for、indeed、hard-pressed 记为熟词僻义；have had、as it 是语法结构，没有实词，不计入；microbes、blast、originate 在 26-1/26-2/25-3 学过，这次又高亮，按生词计）。话题：天文/生物。",
+  "method_version": 1,
+  "source": "截图 2026-11-01 15:02"
+ },
+ {
   "band_types": {
    "high": 48,
    "low": 3,

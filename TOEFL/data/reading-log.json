@@ -2983,6 +2983,55 @@
   "own_meanings": "ordinary 普通的; chondrites 球粒陨石; make up 构成; prevalence 普遍"
  },
  {
+  "date": "2026-11-01",
+  "date_estimated": false,
+  "passage": "26-1",
+  "kind": "日常",
+  "topic": "生物/天文",
+  "tokens": 94,
+  "unknown": 12,
+  "polysemy": 6,
+  "rate": 12.8,
+  "unclear_rate": 19.1,
+  "content_types": 78,
+  "unknown_types": 12,
+  "polysemy_types": 5,
+  "high": 88.7,
+  "mid": 78.6,
+  "low": 27.3,
+  "band_types": {
+   "high": 53,
+   "mid": 14,
+   "low": 11
+  },
+  "words": "alternative, anthrax, bombardment, forbidding, microbe, moderate, outlandish, panspermia, radioduran, undersea, vent, volcanic",
+  "poly_words": "block, building, lead, ride, sort",
+  "unknown_lemmas": [
+   "alternative",
+   "anthrax",
+   "bombardment",
+   "forbidding",
+   "microbe",
+   "moderate",
+   "outlandish",
+   "panspermia",
+   "radioduran",
+   "undersea",
+   "vent",
+   "volcanic"
+  ],
+  "poly_lemmas": [
+   "block",
+   "building",
+   "lead",
+   "ride",
+   "sort"
+  ],
+  "note": "Passage 26 Panspermia 的 26-1。高亮：leading idea, right sort of, undersea, volcanic vents, alternative, panspermia, outlandish, forbidding, bombardment, building blocks, microbes, radiodurans, anthrax, moderate, ride。她没写意思，生词/熟词僻义是我按词义判断的（leading、sort、building blocks、ride 记为熟词僻义）。话题：生物/天文。",
+  "method_version": 1,
+  "source": "截图 2026-11-01 12:00"
+ },
+ {
   "band_types": {
    "high": 48,
    "low": 3,

@@ -3074,6 +3074,47 @@
   "source": "截图 2026-11-01 14:44"
  },
  {
+  "date": "2026-11-01",
+  "date_estimated": false,
+  "passage": "26-3",
+  "kind": "日常",
+  "topic": "天文/生物",
+  "tokens": 102,
+  "unknown": 4,
+  "polysemy": 5,
+  "rate": 3.9,
+  "unclear_rate": 8.8,
+  "content_types": 71,
+  "unknown_types": 4,
+  "polysemy_types": 5,
+  "high": 89.7,
+  "mid": 80.0,
+  "low": 66.7,
+  "band_types": {
+   "high": 58,
+   "mid": 10,
+   "low": 3
+  },
+  "words": "circumstance, consideration, microbial, nearby",
+  "poly_words": "carry, crash, note, rule, surely",
+  "unknown_lemmas": [
+   "circumstance",
+   "consideration",
+   "microbial",
+   "nearby"
+  ],
+  "poly_lemmas": [
+   "carry",
+   "crash",
+   "note",
+   "rule",
+   "surely"
+  ],
+  "note": "26-3。高亮：carries, as nearby as, crash, microbial, Note, considerations, rule out, circumstances, surely。她没写意思，生词/熟词僻义是我按词义判断的（carries、crash、Note、rule out、surely 记为熟词僻义；nearby 在 25-2 学过，这次又高亮，按生词计）。话题：天文/生物。",
+  "method_version": 1,
+  "source": "截图 2026-11-01 15:00"
+ },
+ {
   "band_types": {
    "high": 48,
    "low": 3,

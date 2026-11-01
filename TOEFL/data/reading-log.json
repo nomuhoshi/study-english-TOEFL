@@ -3033,6 +3033,47 @@
   "own_meanings": "leading idea 主流的想法; right sort of 合适的那一类; undersea 海底的; volcanic vents 火山喷口; alternative 另一种可能; panspermia 胚种论; sperm 种子; pan- 所有; -ia 学说，状态或病症; outlandish 古怪的; forbidding 令人望而生畏的; bombardment 轰击; building blocks 基本组成单位; microbes 微生物; radiodurans 耐辐射球菌; anthrax 炭疽; moderate 中等程度; ride 搭载的交通方式"
  },
  {
+  "date": "2026-11-01",
+  "date_estimated": false,
+  "passage": "26-2",
+  "kind": "日常",
+  "topic": "天文/生物",
+  "tokens": 64,
+  "unknown": 7,
+  "polysemy": 3,
+  "rate": 10.9,
+  "unclear_rate": 15.6,
+  "content_types": 55,
+  "unknown_types": 6,
+  "polysemy_types": 3,
+  "high": 97.4,
+  "mid": 46.2,
+  "low": 66.7,
+  "band_types": {
+   "high": 39,
+   "mid": 13,
+   "low": 3
+  },
+  "words": "blast, catalog, composition, dozen, sneeze, trajectory",
+  "poly_words": "amount, overtime, reveal",
+  "unknown_lemmas": [
+   "blast",
+   "catalog",
+   "composition",
+   "dozen",
+   "sneeze",
+   "trajectory"
+  ],
+  "poly_lemmas": [
+   "amount",
+   "overtime",
+   "reveal"
+  ],
+  "note": "26-2。高亮：cataloged, so far revealed, dozen, compositions, blasted, trajectories, along with, amount of, overtime, sneezing。她没写意思（她贴了一串音标和原文，没有意思），生词/熟词僻义是我按词义判断的（reveal、amount、overtime 记为熟词僻义）。原文里 overtime 在笔记里是连写，实际应为 over time。话题：天文/生物。",
+  "method_version": 1,
+  "source": "截图 2026-11-01 14:44"
+ },
+ {
   "band_types": {
    "high": 48,
    "low": 3,

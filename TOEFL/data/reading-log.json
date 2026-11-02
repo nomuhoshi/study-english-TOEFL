@@ -3160,6 +3160,129 @@
   "own_meanings": "intriguing 引人入胜的; seeded 播下生命的种子; indigenous 土生土长的; avoiding the need for 避免了对x的需要; indeed 的确; have had 过去曾经有过; scenario 设想; plausible 貌似合理; as it 因为它; microbes 微生物; blasted off 被炸开（更准确：被炸离）; hard-pressed 很难做到; originated 起源于"
  },
  {
+  "date": "2026-11-01",
+  "date_estimated": false,
+  "passage": "27-1",
+  "kind": "日常",
+  "topic": "戏剧/历史",
+  "tokens": 26,
+  "unknown": 3,
+  "polysemy": 3,
+  "rate": 11.5,
+  "unclear_rate": 23.1,
+  "content_types": 25,
+  "unknown_types": 3,
+  "polysemy_types": 2,
+  "high": 86.7,
+  "mid": 83.3,
+  "low": 50.0,
+  "band_types": {
+   "high": 15,
+   "mid": 6,
+   "low": 4
+  },
+  "words": "chiefly, nonprofessional, scholarly",
+  "poly_words": "comedy, play",
+  "unknown_lemmas": [
+   "chiefly",
+   "nonprofessional",
+   "scholarly"
+  ],
+  "poly_lemmas": [
+   "comedy",
+   "play"
+  ],
+  "note": "Passage 27 Commedia dell'Arte 的 27-1。高亮：标题 Commedia dell'Arte, In contrast to opera, chiefly, Renaissance, comedy, play of, scholarly, nonprofessionals。她没写意思，生词/熟词僻义是我按词义判断的（comedy、play 记为熟词僻义；标题和 commedia 是意大利语专名，不计）。Notes 编辑时间是 11/1 21:04，按 11/1 记。话题：戏剧/历史。",
+  "method_version": 1,
+  "source": "截图 2026-11-02 12:43（Notes 编辑时间 11/1 21:04）"
+ },
+ {
+  "date": "2026-11-01",
+  "date_estimated": false,
+  "passage": "27-2",
+  "kind": "日常",
+  "topic": "戏剧/历史",
+  "tokens": 35,
+  "unknown": 6,
+  "polysemy": 5,
+  "rate": 17.1,
+  "unclear_rate": 31.4,
+  "content_types": 29,
+  "unknown_types": 6,
+  "polysemy_types": 3,
+  "high": 83.3,
+  "mid": 57.1,
+  "low": 25.0,
+  "band_types": {
+   "high": 18,
+   "mid": 7,
+   "low": 4
+  },
+  "words": "clown, consist, instance, mime, troupe, vary",
+  "poly_words": "comedy, stag, term",
+  "unknown_lemmas": [
+   "clown",
+   "consist",
+   "instance",
+   "mime",
+   "troupe",
+   "vary"
+  ],
+  "poly_lemmas": [
+   "comedy",
+   "stag",
+   "term"
+  ],
+  "note": "27-2。高亮：consisted, varied, troupes, mimes, clowns, instances, commedia performers, staged, term, comedy。她没写意思，生词/熟词僻义是我按词义判断的（staged、term、comedy 记为熟词僻义）。话题：戏剧/历史。",
+  "method_version": 1,
+  "source": "截图 2026-11-02 12:43（Notes 编辑时间 11/1 21:04）"
+ },
+ {
+  "date": "2026-11-01",
+  "date_estimated": false,
+  "passage": "27-3",
+  "kind": "日常",
+  "topic": "戏剧/历史",
+  "tokens": 45,
+  "unknown": 10,
+  "polysemy": 7,
+  "rate": 22.2,
+  "unclear_rate": 37.8,
+  "content_types": 38,
+  "unknown_types": 7,
+  "polysemy_types": 6,
+  "high": 84.0,
+  "mid": 36.4,
+  "low": 0.0,
+  "band_types": {
+   "high": 25,
+   "mid": 11,
+   "low": 2
+  },
+  "words": "dialogue, improvisation, improvise, literary, scenario, script, thrive",
+  "poly_words": "go, invent, outline, plot, rather, set",
+  "unknown_lemmas": [
+   "dialogue",
+   "improvisation",
+   "improvise",
+   "literary",
+   "scenario",
+   "script",
+   "thrive"
+  ],
+  "poly_lemmas": [
+   "go",
+   "invent",
+   "outline",
+   "plot",
+   "rather",
+   "set"
+  ],
+  "note": "27-3。高亮：thrived, literary, rather, improvised, Scenario, scripts, dialogue, scripts, plot outlines, had no set text, invented, went along, improvisation。她没写意思，生词/熟词僻义是我按词义判断的（rather、plot outlines、set text、invented、went along 记为熟词僻义）。话题：戏剧/历史。",
+  "method_version": 1,
+  "source": "截图 2026-11-02 12:43（Notes 编辑时间 11/1 21:04）"
+ },
+ {
   "band_types": {
    "high": 48,
    "low": 3,
